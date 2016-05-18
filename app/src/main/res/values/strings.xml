@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HSV Color Picker</string>
+    <string name="action_about">About</string>
+    <string name="hueStrId">Hue</string>
+    <string name="saturationStrId">Saturation</string>
+    <string name="lightnessStrId">Value / Lightness</string>
+    <string name="creatorName">Ian MacDonald (macd7901)</string>
+    <string name="ok">Ok</string>
+
+</resources>
